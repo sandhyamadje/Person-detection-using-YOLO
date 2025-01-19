@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image_62.jpg</filename>
+	<path>C:\Users\sandh.SHRIHARI\OneDrive\Desktop\Data_science\YOLO\dataset\images\image_62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5304</width>
+		<height>6630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2312</xmin>
+			<ymin>315</ymin>
+			<xmax>4605</xmax>
+			<ymax>6415</ymax>
+		</bndbox>
+	</object>
+</annotation>
